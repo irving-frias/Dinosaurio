@@ -1,0 +1,7 @@
+#canvas{
+    width: 700px;
+    height: 300px;
+    border-style:solid;
+    border-color: blueviolet;
+    border-radius: 2px;
+}

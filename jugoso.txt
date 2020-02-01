@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jugoso</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet"href="laedicion.css"type="text/css">
+    <script src="2deasada.js"></script>
+</head>
+<body>
+ <canvas id="canvas" width="700" heigth="300"></canvas>
+</body>
+</html>
